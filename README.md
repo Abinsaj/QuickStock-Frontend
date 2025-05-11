@@ -96,14 +96,15 @@ Images are uploaded as multipart/form-data using multer
     /config           
 
 /backend
-  /controllers         
-  /routes              
-  /models              
-  /middleware          
-  /config              
-  /enums               
-  /repository          
-  /service     
+  /src
+    /controllers         
+    /routes              
+    /models              
+    /middleware          
+    /config              
+    /enums               
+    /repository          
+    /service     
 
 
 ## 🛡️ Validations
