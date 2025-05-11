@@ -39,10 +39,10 @@ A full-stack MERN (MongoDB, Express, React, Node.js) application for managing pr
 ### 1. Clone the repository
 
 Backend
-git clone https://github.com/your-username/product-management-app.git
+git clone https://github.com/Abinsaj/QuickStock-Backend.git
 
 Frontend
-git clone https://github.com/your-username/product-management-app.git
+git clone https://github.com/Abinsaj/QuickStock-Frontend.git
 
 ## Backend Setup
 cd backend
